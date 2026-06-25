@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://images-assets.nasa.gov/image/art002e009285/art002e009285~medium.jpg](https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/5/cf/5cfb7836-193a-5dd2-825d-083b7c86189c/60f68aa0290c4.image.png)" width="100%">
+  <img src="https://images-assets.nasa.gov/image/GRC-2024-C-02645/GRC-2024-C-02645~medium.jpg" width="100%">
 </p>
 
 # Hi, my name is Joseph
