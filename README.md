@@ -1,6 +1,6 @@
 ![banner](https://i.etsystatic.com/34466454/r/il/916496/3832699624/il_fullxfull.3832699624_7g6e.jpg)
 
-# 👋 Hi, I'm Joseph
+# 🌙 Hi, I'm Joseph
 
 > Python developer focused on physics, astronomy, and scientific computing.
 
@@ -9,6 +9,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-9D4EDD?style=flat-square)
 ![Scientific Computing](https://img.shields.io/badge/Scientific_Computing-⚛️-00C7FF?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-9D4EDD?style=flat-square)
+
 
 🪐 ────────────── ✦ ────────────── 🪐
 
