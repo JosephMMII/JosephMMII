@@ -1,76 +1,57 @@
-# Hi, my name is Joseph
+![banner](https://i.etsystatic.com/34466454/r/il/916496/3832699624/il_fullxfull.3832699624_7g6e.jpg)
 
-I'm currently learning Python and building projects related to ☄️:
-- Physics
-- Astronomy
-- Cosmology
-- Statistics
-- Mathematics
-- Data analysis
-- Scientific programming
+# 👋 Hi, I'm Joseph
 
----
+> Python developer focused on physics, astronomy, and scientific computing.
 
-## Current Skills
+![Python](https://img.shields.io/badge/Python-3.12-00C7FF?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-FF4FD8?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-9D4EDD?style=flat-square)
+![Scientific Computing](https://img.shields.io/badge/Scientific_Computing-⚛️-00C7FF?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-9D4EDD?style=flat-square)
 
-- Python
-- Pandas
-- Matplotlib
-- Git and GitHub
-- Jupyter Notebook
+🪐 ────────────── ✦ ────────────── 🪐
 
----
+## 🧠 Core Skills
 
-## Current Projects
+⟡ Python development\
+⟡ Scientific computing\
+⟡ Jupyter Notebook workflows\
+⟡ Data analysis & manipulation\
+⟡ Version control (Git & GitHub)\
+⟡ Object-oriented programming (OOP)
 
-### Expense Tracker
-I made a basic expense tracker using python to prompt the
-user about their expenses by category and creating
-a database using Pandas.
+## 🚀 Current Projects
 
-### Basic Free Fall Calculator
-Basic Python program to calculate the projectile motion of an object.
-This project doesn't use any built in or installed modules other than
-the basic operators (-+*/=<>%).
+### 🌌 Star Data Analysis
+> NASA dataset exploration using Pandas and Matplotlib to identify correlations in stellar properties and astronomical patterns.
 
-### Star Data Analysis  
-Using Jupyter Notebook, I use pandas to filter through data recorded
-by NASA and create diagrams showing correlations between data points.
+**Stack:** Python · Pandas · Matplotlib
 
----
+### 📉 Expense Tracker
+> A category-based expense tracking system that stores and organizes user spending data using Pandas.
 
-## Learning Goals
+**Stack:** Python · Pandas
 
-I'm currently focused on improving my knowledge of:
+### 🧮 Free Fall Calculator
+> A calculator for projectile motion using only core Python operations.
 
-- Data analysis
-- Data visualization
-- Scientific computing
-- Simulation programming
-- Object oriented programming
+**Stack:** Python (no external libraries)
 
-## Future Project Ideas
+🪐 ────────────── ✦ ────────────── 🪐
 
-- Solar system modeling
-- N-body gravity simulation
-- Physics based simulations
-- Orbital mechanics simulations
-- Procedural universe generation
-- Astronomical data visualization
+## 🎯 Learning Goals
 
----
+⟡ 🧠 Deepening OOP knowledge\
+⟡ 🌌 Building simulation systems\
+⟡ 📊 Improving data analysis skills\
+⟡ 📈 Improving data analysis skills\
+⟡ ⚛️ Strengthening understanding of scientific computing
 
-<!--
-**JosephMMII/JosephMMII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Future Project Ideas
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⟡ ⚛️ Physics simulation sandbox\
+⟡ 🌌 Procedural universe generator\
+⟡ 🪐 N-body orbital mechanics engine\
+⟡ 📡 Astronomical data visualization tools\
+⟡ 🌍 Solar system simulation (gravity-based)
