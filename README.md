@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images-assets.nasa.gov/image/art002e009285/art002e009285~medium.jpg" width="1500" height="900">
+  <img src="https://images-assets.nasa.gov/image/art002e009285/art002e009285~medium.jpg" width="1200" height="400">
 </p>
 
 # Hi, my name is Joseph
