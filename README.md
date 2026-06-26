@@ -10,9 +10,6 @@
 ![Scientific Computing](https://img.shields.io/badge/Scientific_Computing-⚛️-00C7FF?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-9D4EDD?style=flat-square)
 
-
-🪐 ────────────── ✦ ────────────── 🪐
-
 ## 🛸 Core Skills 🛸
 
 ⟡ Python development\
@@ -21,6 +18,8 @@
 ⟡ Data analysis & manipulation\
 ⟡ Version control (Git & GitHub)\
 ⟡ Object-oriented programming (OOP)
+
+🪐 ────────────── ✦ ────────────── 🪐
 
 ## 🛰️ Current Projects 🛰️
 
