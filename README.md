@@ -34,9 +34,9 @@
 **Stack:** Python · Pandas
 
 ### ☄️ Free Fall Calculator
-> A calculator for projectile motion using only core Python operations.
+> A calculator for projectile motion using Python.
 
-**Stack:** Python (no external libraries)
+**Stack:** Python · Math
 
 🪐 ────────────── ✦ ────────────── 🪐
 
